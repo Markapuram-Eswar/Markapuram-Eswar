@@ -7,13 +7,13 @@
 
 - 🤝 I’m looking for help with **Machine learning(nlp,deep neural networks)**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-green-ten-73.vercel.app/](eswarkumarmarkapuram.vercel.app)
+- 👨‍💻 All of my projects are available at [https://eswarkumarmarkapuram.vercel.app](eswarkumarmarkapuram.vercel.app)
 
 - 💬 Ask me about **flutter**
 
 - 📫 How to reach me **markapurameswarkumar@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio-green-ten-73.vercel.app/](eswarkumarmarkapuram.vercel.app)
+- 📄 Know about my experiences [[eswarkumarmarkapuram.vercel.app](https://eswarkumarmarkapuram.vercel.app)](eswarkumarmarkapuram.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
