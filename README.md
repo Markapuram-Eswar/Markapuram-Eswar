@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Machine learning(nlp,deep neural networks)**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-green-ten-73.vercel.app/](https://portfolio-green-ten-73.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-green-ten-73.vercel.app/](eswarkumarmarkapuram.vercel.app)
 
 - 💬 Ask me about **flutter**
 
