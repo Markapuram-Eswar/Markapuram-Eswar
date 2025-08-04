@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eswar Kumar Markapuram</h1>
 <h3 align="center">A passionate to be a Machine learning engineer from India</h3>
 
-- 🔭 I’m currently working on [flutter(app developement)](https://github.com/Markapuram-Eswar/application_2.git)
+- 🔭 I’m currently working on Deep Learning
 
 - 🌱 I’m currently learning **flutter**
 
