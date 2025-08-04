@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Deep Learning
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **Open CV**
 
 - 🤝 I’m looking for help with **Machine learning(nlp,deep neural networks)**
 
