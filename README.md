@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Deep Learning
 
-- 🌱 I’m currently learning **Open CV**
+- 🌱 I’m currently learning **Nlp**
 
 - 🤝 I’m looking for help with **Machine learning(nlp,deep neural networks)**
 
