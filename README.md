@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://eswarkumarmarkapuram.vercel.app]
 
-- 💬 Ask me about **flutter**
-
 - 📫 How to reach me **markapurameswarkumar@gmail.com**
 
 - 📄 Know about my experiences [https://eswarkumarmarkapuram.vercel.app]
